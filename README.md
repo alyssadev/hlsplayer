@@ -1,7 +1,7 @@
 # hlsplayer
 A single file you could drop into a S3 bucket to provide a player for the HLS video files there. I use this for hosting copies of live streams. It's dependent on the query string provided, this can be considered a key to the directory containing the HLS files. If bucket listing is turned off, this is probably secure enough.
 
-## [Example instance](https://s3.aly.pet/stream/?bbb)
+## [Example instance](https://s3.aly.pet/stream/index.html?bbb)
 
 Directory structure:
 
