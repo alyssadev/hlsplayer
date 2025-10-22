@@ -6,6 +6,8 @@ A single file you could drop into a S3 bucket to provide a player for the HLS vi
 * Quality options, menu
 * Keyboard shortcuts
 * Chapter and caption support
+* Remembers quality selection for a given url/slug
+* Remembers playback position for a given url/slug
 
 ## [Example instance](https://s3.aly.pet/stream/index.html?bbb)
 
